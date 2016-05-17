@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44" started-at="2016-04-24T14:16:30Z" finished-at="2016-04-24T14:16:30Z">
+    <groups>
+      <group name="bike">
+        <method signature="ParkingBike.getCbz()[pri:0, instance:first.ParkingBike@7bb11784]" name="getCbz" class="first.ParkingBike"/>
+        <method signature="ParkingBike.getFz()[pri:0, instance:first.ParkingBike@7bb11784]" name="getFz" class="first.ParkingBike"/>
+        <method signature="ParkingBike.getSplendor()[pri:0, instance:first.ParkingBike@7bb11784]" name="getSplendor" class="first.ParkingBike"/>
+      </group> <!-- bike -->
+    </groups>
+    <test name="Test" duration-ms="44" started-at="2016-04-24T14:16:30Z" finished-at="2016-04-24T14:16:30Z">
+      <class name="first.ParkingBike">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:first.ParkingBike@7bb11784]" name="beforeMethod" is-config="true" duration-ms="13" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getCbz()[pri:0, instance:first.ParkingBike@7bb11784]" name="getCbz" duration-ms="2" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCbz -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:first.ParkingBike@7bb11784]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="getFz()[pri:0, instance:first.ParkingBike@7bb11784]" name="getFz" duration-ms="0" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFz -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:first.ParkingBike@7bb11784]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:first.ParkingBike@7bb11784]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:first.ParkingBike@7bb11784]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="getSplendor()[pri:0, instance:first.ParkingBike@7bb11784]" name="getSplendor" duration-ms="0" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSplendor -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:first.ParkingBike@7bb11784]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:first.ParkingBike@7bb11784]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:first.ParkingBike@7bb11784]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="getShine()[pri:0, instance:first.ParkingBike@7bb11784]" name="getShine" duration-ms="0" depends-on-groups="bike" started-at="2016-04-24T19:46:30Z" finished-at="2016-04-24T19:46:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getShine -->
+      </class> <!-- first.ParkingBike -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
